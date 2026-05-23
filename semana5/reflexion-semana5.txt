@@ -1,0 +1,5 @@
+Las APIs permiten que las comunidades compartan informacion de forma rapida y ordenada.
+Con una API, cada vecino puede enviar reportes desde su celular sin ir a una oficina.
+Toda la informacion llega a un servidor central donde se organiza por zona y fecha.
+Esto ayuda a detectar problemas repetidos y coordinar mejor las soluciones. Ademas,
+al estar digitalizado, se guarda un historial que sirve para planificar mejoras a futuro.

@@ -1,0 +1,6 @@
+GET /
+Servidor activo
+GET /saludo
+Hola comunidad
+GET /mensaje/tuNombre
+Hola tuNombre
